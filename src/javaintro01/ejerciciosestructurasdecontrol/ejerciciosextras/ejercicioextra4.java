@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Administrador
+ * @author Alejandro Caro
  */
 public class ejercicioextra4 {
     public static void main(String[] args){
